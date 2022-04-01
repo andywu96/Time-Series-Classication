@@ -26,4 +26,4 @@ This is one of the HW assignment at USC, using different method to solve Time-Se
 ![data_science](ds.jpg)
 
 ## L1 L2 Elastic Penalized
-![data_science](penalized.jpg)
+![data_science](penalized.jfif)
