@@ -25,5 +25,5 @@ This is one of the HW assignment at USC, using different method to solve Time-Se
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
 
-## Linear Regression model
-![data_science](regression.png)
+## L1 L2 Elastic Penalized
+![data_science](penalized.jpg)
