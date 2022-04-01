@@ -25,5 +25,5 @@ This is one of the HW assignment at USC, using different method to solve Time-Se
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
 
-## L1 L2 Elastic Penalized
+## L1, L2, Elastic Set regularization
 ![data_science](penalized.jfif)
